@@ -35,9 +35,9 @@ Catch the DragonBall.
 ----
 In-Game Screenshots:
 * Screenshot One:  
-Screenshot...
+![Screenshot](https://github.com/keenan-n/HypeDev_Python_L1Task15_Pygame_DDBZ/blob/master/in_gameshot_one.png)
 * Screenshot Two  
-Screenshot...
+![Screenshot](https://github.com/keenan-n/HypeDev_Python_L1Task15_Pygame_DDBZ/blob/master/in_gameshot_two.png)
 
 ### Support:
 ----
